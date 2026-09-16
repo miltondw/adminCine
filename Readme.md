@@ -4,7 +4,6 @@
 ---
 ## 1. Información del Almacenamiento
 
-| Información | Estructura Seleccionada | Justificación |
 **Funciones:** ArrayList => ya que no se conoce un limite fijo de funciones desde el inicio, la mejor opcion es usar un Array dinamico, para ese caso deci usar ArrayList, ya que es una maz flexible y me permite mayor dinamismo.
 **Puestos:** Array de 20 posiciones El numero de puestos es fijo (20). Asi que para optimizar memoria la mejor opcion es el [array] que ocupa un numero fijo de espacio en memoria.
 ---
